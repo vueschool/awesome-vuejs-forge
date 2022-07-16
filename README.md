@@ -1,4 +1,4 @@
-![forge logo](https://vuejsforge.com/images/logo.svg)
+![forge logo](https://i.imgur.com/AuBFoLW.png)
 # awesome-vuejs-forge
 A list of awesome projects built at Vue.js Forge conferences.<br>
 
